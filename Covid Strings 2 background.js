@@ -15,7 +15,7 @@ private final j button option button=
 jbutton (change color)
 public fun graphics(){
 jpanel color panel=j panel();
-Add (color.panel, border layout.center)
+color(panel,center)
 jpanel button panel=
 jpanel (flowlayout(flowlayout.center)
 buttonpanel.add(randombutton);
@@ -29,8 +29,8 @@ optionbutton.add actionlistener(actionlistener(){
 override 
 public actionperformed(actionevent e){
 color multi=jcolorchooser.showdialog(funwithgraphics.this,))
-If(multi!=Null)
-color panel set.background(m)
+if(multi!=null)
+color panel background(m)
 add(buttonpanel,borderlayout.south)
 public static main(string [] args){
 jframe f = covidstrings2()
@@ -40,12 +40,12 @@ f.setsize
 f.setvisible(true);
 <labelid=lblscore>zero</label>
 score=zero
-If (mult == x*y)
+(mult == x*y)
 [non-concatenated]
 score+=ten
 Else:
 score-=ten
-If (mult ==x*y)
+(mult ==x*y)
 [concatenated]
 score+=twenty
 Else:
@@ -62,4 +62,4 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value =object [team color]
-Return filename 
+return filename 
