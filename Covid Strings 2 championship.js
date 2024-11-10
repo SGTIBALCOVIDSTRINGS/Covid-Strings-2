@@ -26,14 +26,14 @@ question31
 question32
 substring(start,end)
 userin.multiple choice
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-Let Result = DeclareWinner(Team1Score, Team2Score);
-Declare Winner 
-If  Team High Seed Championship Game Score >=Sixty:
-Console.Log (High Seed Wins Covid Strings2) 
-Else:
-Console.Log(Low Seed Wins Covid Strings2 )
-Return FileName
+if selectedanswer==correct answer:
+log true
+else:
+log false
+result =declareWinner(team1score,team2score);
+declare winner 
+if team high seed championship game score >=sixty:
+console.log (high seed wins covid strings2) 
+else:
+console.log(low seed wins covid strings2 )
+return filename
