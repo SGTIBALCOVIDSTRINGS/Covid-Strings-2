@@ -46,14 +46,14 @@ matchup.covid strings seed list.add(matchup)
 matchup.TextContent=Team
 bracket.Container.AppendChild(Matchup)
 teams=[orange rna messengers pink covid disease fighters,red protein spikers,white transit angels, blue curve crushers, magenta magentizers, black night riders purple brave hearts]
-rounds = Math.log2(teams.length);
+rounds = math.log2(teams.length);
 currentteams = teams;
-roundDiv =document.createelement(Div);
-roundDiv.ClassName = Covid Strings2 First Round;
-roundDiv.AppenedChild(MatchupDiv)
-teams. ForEach((Team,Index))=>{}
-questions[]Questions={
-collections.Shuffle(Arrays.Aslist(Questions)
+rounddiv =document.createelement(Div);
+rounddiv.classname = covid strings2 first round;
+rounddiv.appenedchild(matchupdiv)
+teams.foreach((team,index))=>{}
+questions[]questions={
+collections.shuffle(arrays.aslist(Questions)
 question1 
 question2
 question3
@@ -79,9 +79,9 @@ bracket.appendchild(roundDiv)
 declare winner
 result =declareWinner(team1score,team2score);
 advancingteams=currentteams.slice(teams length);
-If red score >=fourty:
+if red score >=fourty:
 console.log(red protein spikers win )
-Else:
+else:
 console.log(magenta magnetizers win)
 result =declareWinner(team1score,team2score);
 advancingteams=currentteams.slice(teams length);
@@ -101,4 +101,4 @@ if pink score >=fourty:
 console.log(pink covid disease fighters win )
 else:
 console.log(black night riders win)
-Return fileName
+return filename
