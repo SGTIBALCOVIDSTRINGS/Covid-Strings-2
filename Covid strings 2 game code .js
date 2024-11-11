@@ -87,34 +87,34 @@ collections.shuffle(arrays.aslist(questions)
 private string getblanks(int numberofblanks)
 char[] chars =char[numberofblanks]
 arrays.fill chars 
-Return string chars 
-If math problem== x percent:
+return string chars 
+if math problem== x percent:
 subtract exact from one hundred
-If math problem== margin of error:
+if math problem== margin of error:
 add and subtract exact 
-Else:
+else:
 remain constant
 user input.select team
-Import meta
-myClass=Class
+importmeta
+myclass=class
 constructor(non-concatenated)
-Return category
-If category==math problem:
+return category
+if category==math problem:
 prompt
 log
-Else:
+else:
 select from multiple choice
 myclass=newmyclass(concatenated) 
-Return category
-If category==math problem:
+return category
+if category==math problem:
 prompt
 log
-Else:
+else:
 select from multiple choice
-Import syntax 
+importsyntax 
 substring(start,end)
-If selectedanswer==correct answer:
-Return true
-Else:
-Return false
-Return filename 
+if selectedanswer==correct answer:
+log true
+else:
+log false
+return filename 
