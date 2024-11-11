@@ -1,6 +1,6 @@
-<doc.type HTML>
-<script>
-html lang=en
+doc.type HTML
+script
+html 
 head
 utf-eight
  < Viewport Content=Width=Device-Width,Inital Scale One
@@ -85,20 +85,20 @@ Else:
 console.log(magenta magnetizers win)
 result =declareWinner(team1score,team2score);
 advancingteams=currentteams.slice(teams length);
-If white score >=fourty:
+if white score >=fourty:
 console.log(white transit angels win )
-Else:
+else:
 console.log(blue curve crushers Win)
 result =declareWinner(team1score,team2score);
 advancingteams=slice(teams length)
-If orange score >=fourty:
+if orange score >=fourty:
 console.log(orange rna messengers win )
-Else:
+else:
 console.log(purple brave hearts win)
 result = declarewinner(team1score, team2score);
 advancingteams=slice(teams.length);
-If pink score >=fourty:
+if pink score >=fourty:
 console.log(pink covid disease fighters win )
-Else:
+else:
 console.log(black night riders win)
 Return fileName
