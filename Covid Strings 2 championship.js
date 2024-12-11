@@ -2,6 +2,9 @@
 <script>
 html
 head
+utf8
+viewport content=width=device-width, initial-scale=one>
+title covidstrings version round 
 filename=covid strings2 championship game .JS  
 team high seed= highest remaining seed
 team low seed = lowest remaining Seed
