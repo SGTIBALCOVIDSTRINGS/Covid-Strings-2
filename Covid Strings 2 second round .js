@@ -2,6 +2,9 @@ doc.type HTML
 script
   html
 head
+utf8
+viewport content=width=device-width, initial-scale=one>
+title covidstrings 2 second round 
 filename=covidstrings2 second round .js
 highest remaining seed =(highestremaining num value)
 lowest remaining seed = (lowestremaining num value )
