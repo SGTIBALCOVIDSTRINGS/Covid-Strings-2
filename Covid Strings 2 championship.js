@@ -1,5 +1,5 @@
-<doc type html> 
-<script>
+doc type html
+script
 html
 head
 utf8
