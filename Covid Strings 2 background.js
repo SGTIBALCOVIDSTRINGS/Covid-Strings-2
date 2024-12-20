@@ -5,9 +5,9 @@ java.awt graphics
 img=document.createElement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyiD(header)
-src.AppendChild(img)
+src.appendChild(img)
 <div id=header></div>
-audio=newAudio(audio_file mp3)
+audio=newaudio(audio_file mp3)
 audio.play 
 jbutton random button
 jbutton (set random color)
@@ -43,12 +43,12 @@ score=zero
 (mult == x*y)
 [non-concatenated]
 score+=ten
-Else:
+else:
 score-=ten
 (mult ==x*y)
 [concatenated]
 score+=twenty
-Else:
+else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
 lbl.score.innerHTML=score
