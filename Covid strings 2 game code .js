@@ -1,6 +1,6 @@
 <doc type.html>
 <script>
-filename=covid Strings2 game code .js 
+filename=covid strings2 game code .js 
 console.log(covid strings2 )
 java.awt graphics
 img=document.createelement(covid)
@@ -16,7 +16,7 @@ private final j button option button=
 j button (change color)
 public fun graphics(){
 jpanel color panel=j panel();
-add (color.panel, border layout. center )
+add (panel,center )
 jpanel button panel=
 j panel (flowlayout(flowlayout.center)
 buttonpanel.add(randombutton);
@@ -25,6 +25,13 @@ override
 publicactionperformed(actionevent e){
 random r= newrandom();
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))
+num teams
+total players=players per team
+if players per team=0
+return zero
+else 
+return math floor total players/players per team
+teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(action listener(){
 override 
@@ -117,4 +124,18 @@ if selectedanswer==correct answer:
 log true
 else:
 log false
+answer checker
+scanner=new scanner(system.in)
+string correct answer
+string useranswer=scanner.nextline()
+if useranswer.equals((correctanswer))
+system.out.print.in(correct)
+else:
+system.out.printin(incorrect)
+scanner.close
+check winner:
+if winner==true:
+log(the winner is)
+if winner==false:
+log(no winner yet)   
 return filename 
