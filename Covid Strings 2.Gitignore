@@ -1,0 +1,134 @@
+Covid strings gitignore notes
+Operating system files
+For covid strings include the web browser in which you can access the game 
+Configuration files 
+For covid strings specific ide  settings include
+Generated files
+For covid strings a log file for each version which includes having a tracker for the number of questions completed over total questions 
+Dependency directories
+Similar to the dependency graph file a list of dependencies would include a number of things that aren’t in their own separate file including node modules for each version 
+ For covid strings Ignore files or folders that contain notes involving source code and other files mentioned above 
+Java.awt graphics
+This. img=document.createElement(“covid”)
+img.src=”http://www.google.com/intl/en_com/images/logo_plain.png
+Var src=document getElementByID(“header”)
+src.appendChild(img)
+<div id=”header”></div>
+Var audio=new audio (‘audio_file mp3’)
+Audio.play 
+JButton random Button
+New JButton (“set random color”)
+Private final J Button option Button=
+New J button (“change color”)
+Public Fun With Graphics(){
+JPanel color panel=new J Panel();
+This add (color.panel, border layout. Center )
+JPanel button panel=
+New J Panel (new Flowlayout(flowlayout.Center)
+buttonPanel.add(randomButton);
+Random.button add actionListener(new Action Listiner(){
+Override 
+Public void actionPerformed(ActionEvent e){
+Random r= newRandom();
+ColorPanel.setBackground(new Color (r nextInt(13),)(r nextInt(13),)(r nextInt(13),)(r nextInt(13),)(r nextInt(13),)(r nextInt(13),)(r nextInt(13),)(r nextInt(13)))(r nextInt(13)))(r nextInt(13)))(r nextInt(13)))(r nextInt(13)))
+buttonPanel.add(optionButton);
+optionButton.add actionListener(new Action Listiner(){
+Override 
+Public void actionPerformed(ActionEvent e){
+Color multi=JColorChooser.showDialog(FunWithGraphics.this,
+if(multi!=null)
+color Panel set.background(m)
+this.add(buttonPanel, BorderLayout.South)
+Public static void main(String [] args){
+JFrame f = new Covid Strings 2()
+F.set title(“Covid Strings 2”)
+F.set Default CloseOperation(JFrame. Exit_On_Close);
+f.setSize
+F.set visible(true);
+<label id=”lblScore”>0</label>
+Var Score=0
+If (mult == x*y)
+[non-concatenated]
+score+=10
+Else:
+score-=10
+If (mult == x*y)
+[concatenated]
+score+=20
+Else:
+score-=20
+Var lblScore= Document.getElementbyId(‘lblScore’)
+lbl.Score.innerHTML=score
+Private j button next  button=new jbutton(“next”)
+nextButton add.ActionListener(this)
+Public void actionPerformed(action event e) 
+System.out print.in (“next button clicked”)
+Frame.add(“next button”);
+Frame set visible true
+Const object {a:1,b:2, c:3, d:4, e:5, f:6, g:7, h:8}
+Const keys object keys(team)
+Const entries object entries(obj);
+Const  value =object [team color]
+Covid strings 2 team list=[orange,pink,red,white,blue,magenta, black,purple]
+Covid Strings 2 phrase list=[“ no sun cubed does not kill viruses”
+“ Elon Musk is wrong take the purple pill”
+“ nothing labeled Dexie turns you into Benjamin button”
+“ I am not a super spreader I am a supra spreader”
+“ mdx does not  mean medical doctors prescription”
+“AstraZeneca is only slightly better than the Saturn Astra”   
+“talk about staying at home lasts shorter than a soda can on Venus”
+“ Aaron Rodgers proves the coverup is truly worse than the crime”
+“no”+ “ corona” + “beer” “has” +” nothing”+ ”to”+ ”do” +”with”+ “ corona” +“virus”
+“work” + “from” +”home” +”is”+ ”not” +”just” +”for” +”Rihanna”
+“it+”is”+”also”+”not”+”just”+”fifth”+”harmony’s”+”right”+”either”
+“vitamin” +”d”+ ”however”+ ”is”+ ”a”+ ”compliment” +”to” +”getting” +”vaccinated”
+“at”+”least”+”60”+”minutes”+”of” +”exercise” “also ”+”helps”
+“ no” +”covid”+”was”+”not”+”cheated”+”out”+”of”+”the”+”2020”+”election”
+”one”+”comedian”+”believed”+”the”+”last”+”year”+”was”+”one”+”and”+”four”+”twenty firsts” +”of” +”a” +”Uranian” +”year”
+“It”+ ”figures”+ ”a”+ ”bubble”+ ”would”+  ”employ”+ “a”+ ”round”+ ”robin”+ ”format”]
+Covid strings 2 math problem list=[ “if Aaron Rodgers decided 2 weeks later that he would get a Johnson and Johnson vaccine how soon after getting vaccinated can he play?”, “ the local flag day in town  has been postponed due to an  outbreak of the variant omicron  if the guidelines say that the positivity rate  can be not greater than six and a quarter percent and the rate is six and four ninths percent can the event happen on the new date of June 17th ?”, “if former president Trump shared 14 covid misinformation posts over a period of 2 days assuming they are divided equally, how many posts per day did Trump share?” , “if the same town decided to have a Juneteenth celebration and the same guidelines regarding positivity were used  could Juneteenth be held if the rate was five and one fiftieth percent ?”, ”if a study found that “immunization” increases the likelihood that one would decline vaccination by 65% what could get done to convince skeptical people?” ,“This same study found that when asked about what party they would vote for in the midterms 71% of people who were “immunized” would vote republicans whereas 80% of people who say they were vaccinated vote democrat if the margin of error is 2.9% what is the range?” , “if”+”it”+”becomes”+”public”+”that”+”vitamin”+”d”+”actually”+”only”+”has”+”a”+”third”+”of”+”the”+”efficacy”+”of”+”vaccines”+”should”+”the”+”store”+”offer”+”vitamin”+”d”?,  “the”+”same”+”poll”+”showed”+”that”+”if”+”a”+”new”+”variant”+”came”+”support”+”would”+”increase”+ “by”+”3”+”percent”+”what”+”is”+”the”+”new”+”range?”, the”+”same”+”poll”+”showed”+”that”+”once”+”the”+”variant”+”leaves”+”support”+”recedes”+”by”+”5”+”percent”+”what”+”is”+”the”+”new”+”range”? ]
+Covid strings 2 sentence list=[“trump”+”said”+”covid”+”made”+”him”+”20”+”years”+”younger” ,”vitamin d exposure is one way to boost immunity” ,“work from home is not just for famous people”,”covid”+”misninformation”+”spreads”+”just”+”as”+”fast”+”as”+”covid”+”itself”  ]
+String.split   
+arrays.asList(list<string>)
+For (string ss:arr){
+system.outprintIn(ss)
+Import Java util.scanner
+Import Java.util
+Questions[]questions={
+Collections.shuffle(arrays.aslist(questions)
+Private String getBlanks(int numberofBlanks)
+Char[] chars = new char[numberofBlanks]
+Arrays.fill chars 
+Return new string chars 
+If math problem== x percent:
+Subtract exact from 100
+If math problem== margin of error:
+Add and subtract exact 
+Else:
+Remain constant
+User input.select team
+Import meta
+Class MyClass
+constructor (non-concatenated)
+Return category
+If category==”math problem”:
+Type answer
+Else:
+Select from multiple choice
+Const myclass=newMyClass( Concatenated) 
+Return category
+If category==”math problem”:
+Type answer
+Else:
+Select from multiple choice
+Import syntax 
+substring(start,end)
+
+If selectedAnswer==correct answer:
+Return true
+Else:
+Return false
+
+
+
+
