@@ -7,7 +7,7 @@ generated files
 for covid strings a log file for each version which includes having a tracker for the number of questions completed over total questions 
 dependency directories
 similar to the dependency graph file a list of dependencies would include a number of things that aren’t in their own separate file including node modules for each version 
-for covid strings Ignore files or folders that contain notes involving source code and other files mentioned above 
+for covid strings ignore files or folders that contain notes involving source code and other files mentioned above 
 java.awt graphics
 this. img=document.createelement(“covid”)
 img.src=”http://www.google.com/intl/en_com/images/logo_plain.png
@@ -18,7 +18,7 @@ varaudio=new audio (‘audio_file mp3’)
 audio.play 
 jbutton random Button
 new jbutton (“set random color”)
-private final j Button option Button=
+private final j button option button=
 new j button (“change color”)
 public fun with graphics(){
 jpanel color panel=new j panel();
@@ -123,11 +123,10 @@ else:
 select from multiple choice
 import syntax 
 substring(start,end)
-
-If selectedAnswer==correct answer:
-Return true
-Else:
-Return false
+if selectedanswer==correct answer:
+return true
+else:
+return false
 
 
 
