@@ -1,6 +1,11 @@
 doc type.html
 script
+imagesrc =www.google.com/intl/en_com/images/logo_plain.png;
+src = document.getelementbyid(covid virus)
 filename=covid strings2 game code.js 
+getelementbyid
+appendchild
+getelementbyid
 java.awt graphics
 img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
