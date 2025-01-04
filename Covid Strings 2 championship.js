@@ -7,9 +7,8 @@ viewport content=width=device-width, initial-scale=one>
 title covidstrings version round 
 filename=covid strings2 championship game .JS  
 team high seed= highest remaining seed
-team low seed = lowest remaining Seed
+team low seed = lowest remaining seed
 championship game=(high versus lowest remaining seed)  
-console.log(covid strings2 championship game)
 rounddiv name=covid strings2 championship round
 matchupdiv = document.createelement(div);
 matchupdiv.classname =matchup;
@@ -33,7 +32,7 @@ if selectedanswer==correct answer:
 log true
 else:
 log false
-result =declareWinner(team1score,team2score);
+result =declarewinner(team1score,team2score);
 declare winner 
 if team high seed championship game score >=sixty:
 console.log (high seed wins covid strings2) 
