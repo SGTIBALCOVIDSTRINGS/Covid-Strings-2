@@ -1,5 +1,5 @@
-<doc type.html>
-<script>
+doc type.html
+script
 filename=covid strings2 game code .js 
 console.log(covid strings2 )
 java.awt graphics
