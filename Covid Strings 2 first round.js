@@ -42,8 +42,8 @@ matchup.textcontent=team
 bracket.container.appendchild(matchup)
 create matchup (black night riders versus pink covid disease fighters)
 matchup.covid strings seed list.add(matchup)
-matchup.TextContent=Team
-bracket.Container.AppendChild(Matchup)
+matchup.textcontent=Team
+bracket.container.appendChild(Matchup)
 teams=[orange rna messengers pink covid disease fighters,red protein spikers,white transit angels, blue curve crushers, magenta magentizers, black night riders purple brave hearts]
 rounds = math.log2(teams.length);
 currentteams = teams;
@@ -82,20 +82,14 @@ if red score >=fourty:
 console.log(red protein spikers win )
 else:
 console.log(magenta magnetizers win)
-result =declareWinner(team1score,team2score);
-advancingteams=currentteams.slice(teams length);
 if white score >=fourty:
 console.log(white transit angels win )
 else:
 console.log(blue curve crushers Win)
-result =declareWinner(team1score,team2score);
-advancingteams=slice(teams length)
 if orange score >=fourty:
 console.log(orange rna messengers win )
 else:
 console.log(purple brave hearts win)
-result = declarewinner(team1score, team2score);
-advancingteams=slice(teams.length);
 if pink score >=fourty:
 console.log(pink covid disease fighters win )
 else:
