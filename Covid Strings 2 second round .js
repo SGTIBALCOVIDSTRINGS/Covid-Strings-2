@@ -13,12 +13,12 @@ intermediateseed2=(second middle remaining value in covid strings list)
 create matchup(intermediate seed2 versus intermediate seed1)
 matchup=document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1} ${team2}
+matchup.innerHTML = <div>${team1}/${team2}
 return matchup;
-create matchup=(lowest remaining seed Versus Highest Remaining Seed )
+create matchup=(lowest remaining seed versus highest remaining Seed )
 matchup =document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}${team2}</div>
+matchup.innerHTML = <div>${team1}/${team2}
 java util.scanner
 java.util
 questions[]questions={
@@ -36,15 +36,14 @@ char[] chars = char[numberofblanks]
 arrays.fill chars 
 return string chars 
 addeventlistener
-if event.target.classlist.Contains(team)) {
-declare winner =event.target.TextContent;
-result = declareWinner(team1score,team2score);
+if event.target.classlist.contains(team)
+result =declarewinner(team1score,team2score);
 advancingteams=currentteams.slice(currentteams)
 if intermediate seed1 score>=fourty:
 console.log(intermediate seed1 wins)
 else:
 console.log(intermediate seed2 wins)
-if event.Target.ClassList.Contains(Team)) {
+if event.target.classlist.contains(team)
 declare winner = event.target.textcontent;
 result = declarewinner(team1score,team2score);
 advancingteams=slice(currentteams)
