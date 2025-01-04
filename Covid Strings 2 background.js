@@ -61,5 +61,5 @@ frame set visible true
 object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
-value =object [team color]
+value object= [team color]
 return filename 
