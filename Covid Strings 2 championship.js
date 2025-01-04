@@ -4,7 +4,7 @@ html
 head
 utf8
 viewport content=width=device-width, initial-scale=one
-title covidstrings version round 
+title covidstrings 2 championship bracket
 filename=covid strings2 championship game .js  
 team high seed= highest remaining seed
 team low seed = lowest remaining seed
