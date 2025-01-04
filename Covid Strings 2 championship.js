@@ -33,7 +33,6 @@ log true
 else:
 log false
 result =declarewinner(team1score,team2score);
-declare winner 
 if team high seed championship game score >=sixty:
 console.log (high seed wins covid strings2) 
 else:
