@@ -3,9 +3,9 @@ script
 html
 head
 utf8
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covidstrings version round 
-filename=covid strings2 championship game .JS  
+filename=covid strings2 championship game .js  
 team high seed= highest remaining seed
 team low seed = lowest remaining seed
 championship game=(high versus lowest remaining seed)  
