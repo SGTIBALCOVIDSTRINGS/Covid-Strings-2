@@ -1,4 +1,4 @@
-doc.type HTML
+doc.type.html
 script
 file name= covid strings version2 background .js 
 java.awt graphics
