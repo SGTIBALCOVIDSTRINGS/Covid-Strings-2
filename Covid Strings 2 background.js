@@ -2,7 +2,7 @@ doc.type HTML
 script
 file name= covid strings version2 background .js 
 java.awt graphics
-img=document.createElement(covid)
+img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyiD(header)
 src.appendChild(img)
