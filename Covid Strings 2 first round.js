@@ -6,18 +6,17 @@ utf-eight
 viewport content=width=device-width,initalscale one
 title covid strings2 first round 
 link rel=stylesheet href=styles.css
- head
- body
- html
- brakcet container{}
- display: grid;
- gap : tenpx:
- matchup{}
- solid zero;
- padding: tenpx;
+head
+body
+html
+brakcet container{}
+display: grid;
+gap : tenpx:
+matchup{}
+solid zero;
+padding: tenpx;
 text-align: center;
 filename=covid strings2 first round.js
-console.log(covid strings2 first round)
 covid strings first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
 second highest seed=2 seed
