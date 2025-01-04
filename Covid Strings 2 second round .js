@@ -16,7 +16,7 @@ matchup.classlist.add(matchup);
 matchup.innerHTML = <div>${team1}/${team2}
 return matchup;
 create matchup=(lowest remaining seed versus highest remaining Seed )
-matchup =document.createelement(div);
+matchup=document.createelement(div);
 matchup.classlist.add(matchup);
 matchup.innerHTML = <div>${team1}/${team2}
 java util.scanner
@@ -44,7 +44,6 @@ console.log(intermediate seed1 wins)
 else:
 console.log(intermediate seed2 wins)
 if event.target.classlist.contains(team)
-declare winner = event.target.textcontent;
 result = declarewinner(team1score,team2score);
 advancingteams=slice(currentteams)
 if highest remaining seed score>=fourty:
