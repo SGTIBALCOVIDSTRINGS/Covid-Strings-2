@@ -17,7 +17,7 @@ solid zero;
 padding: tenpx;
 text-align: center;
 filename=covid strings2 first round.js
-covid strings first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
+covid strings first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed, third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
 second highest seed=2 seed
 third highest seed=3 seed
@@ -28,22 +28,11 @@ second lowest seed = 7 seed
 lowest overall seed = 8 seed
 teams. foreach((team,index))=>{}
 create matchup (magenta magnetizers versus red protein spikers))
-matchup=document.createelement(div)
-matchup.covid strings first round.add(matchup)
-matchup.textcontent=team
-bracket.container.appendchild(matchup)
 create matchup (blue curve crushers versus white transit angels)
-matchup.covid strings seed list .add(matchup)
-matchup.textcontent=team
-bracket.container.appendchild(matchup)
 create matchup (purple brave hearts versus orange messengers)
-matchup.covid strings seed list.add(matchup)
-matchup.textcontent=team
-bracket.container.appendchild(matchup)
 create matchup (black night riders versus pink covid disease fighters)
-matchup.covid strings seed list.add(matchup)
-matchup.textcontent=Team
-bracket.container.appendChild(Matchup)
+if event target class list contains (matchup)
+add matchup
 teams=[orange rna messengers pink covid disease fighters,red protein spikers,white transit angels, blue curve crushers, magenta magentizers, black night riders purple brave hearts]
 rounds = math.log2(teams.length);
 currentteams = teams;
