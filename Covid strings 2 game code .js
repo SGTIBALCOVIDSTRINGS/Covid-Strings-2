@@ -7,11 +7,6 @@ getelementbyid
 appendchild
 getelementbyid
 java.awt graphics
-img=document.createelement(covid)
-img.src=http://www.google.com/intl/en_com/images/logo_plain.png
-src=document getelementbyiD(header)
-src.appendchild(img)
-<div id=header></div>
 audio=audio(audio_file mp3)
 audio.play 
 jbutton random button
