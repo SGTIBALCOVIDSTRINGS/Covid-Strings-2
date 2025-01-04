@@ -1,7 +1,6 @@
 doc type.html
 script
 filename=covid strings2 game code .js 
-console.log(covid strings2 )
 java.awt graphics
 img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
