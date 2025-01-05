@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblScore= document.getelementbyid(lblScore)
-lbl.score.innerHTML=score
+lbl.score.innerhtml=score
 private j button next button=jbutton(next)
 nextbutton add.actionlistener
 public actionperformed(action event e) 
