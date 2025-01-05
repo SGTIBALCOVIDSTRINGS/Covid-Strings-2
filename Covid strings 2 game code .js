@@ -5,7 +5,6 @@ src = document.getelementbyid(covid virus)
 filename=covid strings2 game code.js 
 getelementbyid
 appendchild
-getelementbyid
 java.awt graphics
 audio=audio(audio_file mp3)
 audio.play 
