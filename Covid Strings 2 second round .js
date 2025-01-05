@@ -13,12 +13,12 @@ intermediateseed2=(second middle remaining value in covid strings list)
 create matchup(intermediate seed2 versus intermediate seed1)
 matchup=document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}/${team2}
+matchup.innerhtml = <div>${team1}/${team2}
 return matchup;
 create matchup=(lowest remaining seed versus highest remaining Seed )
 matchup=document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}/${team2}
+matchup.innerhtml = <div>${team1}/${team2}
 java util.scanner
 java.util
 questions[]questions={
