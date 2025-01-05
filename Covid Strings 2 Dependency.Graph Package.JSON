@@ -1,0 +1,54 @@
+class graph 
+constructor(){
+this.map=new Map
+add vertex(vertex)
+this.map.set (vertex,[ ] ));
+addedge(source,direction,bidirectional)
+if(!this.map.has(source))
+this.addvertex(source)
+if(this.map.has(destination))
+this.addvertex(destination);
+this.map.get source(destination)
+if (bidirectional)
+this.map.get(destination).push(source)
+getvertex count()
+console.log(‘the graph has ${this.map.size}vertex’)
+get edgescount(bidirectional)
+let count=0
+for(const edges of this. map.values ())
+count+=edges.length
+if(bidirectional)
+count/=2;
+console.log(‘the graph has$ {count} edges.’)
+hasVertex(vertex)
+if(this.map.has(vertex))
+console.log(‘the graph contains ${vertex} as a vertex’)
+else
+console.log(the graph  does not contain ${vertex} as a vertex’)
+hasedge(source,destination)
+if(this.map.has(vertex) return;
+console.log(‘the neighbors of ${vertex} are
+${this map.get(vertex).join(“,”)});
+tostring()
+let result=””
+for(const[vertex,edges] of this.map.entries())
+result+=${‘vertex}:{edges.join(“”)}/n’
+return result;
+dependencies
+create x and y axis for questions and answers
+create separate color code of green for correct answers and red for incorrect answers
+due to other team stealing rule only change an incorrect answer to red  if the team with the chance to steal gets the question wrong
+create intervals of 1 for questions and 10 for points 
+for fan voting create separate graph to track percent of votes for each question
+express ^node js 20
+npm install <app store->  - d 
+npm install jest - - save 
+npm install audit
+scripts
+start 
+build 
+test 
+lint 
+npm install=  - -  only production
+npm test
+npm deploy  
