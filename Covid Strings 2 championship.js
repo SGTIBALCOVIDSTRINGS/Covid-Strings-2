@@ -12,7 +12,7 @@ championship game=(high versus lowest remaining seed)
 rounddiv name=covid strings2 championship round
 matchupdiv = document.createelement(div);
 matchupdiv.classname =matchup;
-matchupdiv.innerHTML =[team low seed versus team high seed]
+matchupdiv.innerhtml =[team low seed versus team high seed]
 rounddiv.appendchild(matchupdiv);
 bracket.appendchild(rounddiv);
 advancingteam =slice(currentteams) 
