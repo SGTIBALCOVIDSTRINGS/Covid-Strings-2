@@ -21,7 +21,7 @@ jpanel (flowlayout(flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionListener(actionlistener)
 override 
-public actionperformed(actioneventthirteen){
+public actionperformed(actionevent e){
 random r= newrandom();
 colorpanel.setbackground((rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))
 buttonpanel.add(optionbutton);
