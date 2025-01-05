@@ -4,7 +4,7 @@ html
 head
 utf-eight
 viewport content=width=device-width,initalscale one
-title covid strings2 first round 
+title covid strings2 first round bracket 
 link rel=stylesheet href=styles.css
 head
 body
@@ -34,14 +34,13 @@ create matchup (black night riders versus pink covid disease fighters)
 if event target class list contains (matchup)
 add matchup
 teams=[orange rna messengers pink covid disease fighters,red protein spikers,white transit angels, blue curve crushers, magenta magentizers, black night riders purple brave hearts]
-rounds = math.log2(teams.length);
 currentteams = teams;
-rounddiv =document.createelement(Div);
+rounddiv =document.createelement(div);
 rounddiv.classname = covid strings2 first round;
 rounddiv.appenedchild(matchupdiv)
 teams.foreach((team,index))=>{}
 questions[]questions={
-collections.shuffle(arrays.aslist(Questions)
+collections.shuffle(arrays.aslist(questions)
 question1 
 question2
 question3
@@ -63,10 +62,10 @@ private string getblanks(int numberofnlanks)
 char[] chars = char[numberofblanks]
 arrays.fill chars 
 string chars 
-bracket.appendchild(roundDiv)
+bracket.appendchild(rounddiv)
 declare winner
 result =declareWinner(team1score,team2score);
-advancingteams=currentteams.slice(teams length);
+advancingteams=slice(current teams);
 if red score >=fourty:
 console.log(red protein spikers win )
 else:
