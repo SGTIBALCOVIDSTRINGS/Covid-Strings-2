@@ -4,8 +4,8 @@ file name= covid strings version2 background .js
 java.awt graphics
 img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
-src=document getelementbyiD(header)
-src.appendChild(img)
+src=document getelementbyid(header)
+src.appendchild(img)
 <div id=header></div>
 audio=newaudio(audio_file mp3)
 audio.play 
@@ -19,13 +19,13 @@ color(panel,center)
 jpanel button panel=
 jpanel (flowlayout(flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionListener(actionlistener(){
+random.button add actionListener(actionlistener)
 override 
 public actionperformed(actioneventthirteen){
 random r= newrandom();
-colorpanel.setBackground((rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))
+colorpanel.setbackground((rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))(rnextint(thirteen)))
 buttonpanel.add(optionbutton);
-optionbutton.add actionlistener(actionlistener(){
+optionbutton.add actionlistener(actionlistener)
 override 
 public actionperformed(actionevent e){
 color multi=jcolorchooser.showdialog(funwithgraphics.this,))
@@ -38,7 +38,7 @@ f.set title(covid strings2)
 f.setcloseoperation(jframe.exit_on_close);
 f.setsize
 f.setvisible(true);
-<labelid=lblscore>zero</label>
+labelid=lblscore>zero</label
 score=zero
 (mult == x*y)
 [non-concatenated]
@@ -51,7 +51,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.innerhtml=score
 private j button next button=jbutton(next)
 nextbutton add.actionlistener
 public actionperformed(action event e) 
