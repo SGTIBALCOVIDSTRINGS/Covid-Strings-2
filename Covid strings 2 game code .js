@@ -56,7 +56,7 @@ if (mult == x*y)
 score+=twenty
 else:
 score-=twenty
-lbl score= document.getelementbyid(lblScore)
+lbl score= document.getelementbyid(lbl score)
 lbl.score.innerhtml=score
 private j button next button=jbutton(next)
 nextbutton add.actionlistener
@@ -68,7 +68,7 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [teamcolor]
-covid strings2 team list=[orange,pink,red,white,blue,magenta,black,purple]
+covid strings2 team list=[orange rna messengers,pink covid disease fighters,red protein spikers ,white transit angels,blue curve crushers ,magenta magnetizers ,black night riders,purple brave hearts]
 covid strings2 debugging question=(whats wrong with this code the +covid+death+in+terms+of+pi++is+one thousand) 
 covid strings2 phrase list=[non-concatenated,no sun cubed does not kill viruses, elon musk is wrong take the purple pill, nothing labeled dexie turns you into benjamin button, i am not a superspreader i am a supraspreader mdx does not mean medical doctors prescription,astrazeneca is only slightly better than the saturn astra, talk about staying at home lasts shorter than a soda can on venus aaron rodgers proves the coverup is truly worse than the crime
 concatenated,no+ corona +beer+has +nothing+to+do+with+corona+virus,work +from+home+is+not+just+for+rihanna,it+is+also+not+just+fifth+harmonys+right+either,vitamin+d+however+is+a+compliment+to+getting+vaccinated,at+least+sixty+minutes+of+exercise+also+helps,no+covid+was+not+cheated+out+of+the+twenty-twenty+election,one+comedian+believed+the+last+year+was+one+and+four+twentyfirsts+of+a+uranian+year
