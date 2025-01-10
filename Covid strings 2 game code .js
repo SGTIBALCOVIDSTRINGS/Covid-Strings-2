@@ -8,17 +8,17 @@ appendchild
 java.awt graphics
 audio=audio(audio_file mp3)
 audio.play 
-jbutton random button
-jbutton (set random color)
+button random button
+button (set random color)
 private final j button option button=
-j button (change color)
+button (change color)
 public fun graphics(){
-jpanel color panel=j panel();
-add (panel,center )
-jpanel button panel=
+color panel=j panel();
+add (panel,center)
+button panel
 j panel (flowlayout(flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionlistener(actionlistener(){
+random.button add actionlistener(actionlistener)
 override 
 publicactionperformed(actionevent e){
 random r= newrandom();
@@ -31,17 +31,17 @@ else
 return math floor total players/players per team
 teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
-optionbutton.add actionlistener(action listener(){
+optionbutton.add actionlistener(action listener)
 override 
 publicactionperformed(actionevente){
 color multi=jcolorchooser.showdialog(funwithgraphics.this,)
 if(multi!=null)
 color panel set.background(m)
-add(buttonPanel, borderlayout.south)
+add(buttonpanel, borderlayout.south)
 public static  main(string [] args){
 jframe f = covidstrings2()
 f.set title(covidstrings2)
-f.setcloseOperation(jframe.exit_on_close);
+f.setcloseoperation(jframe.exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
@@ -56,7 +56,7 @@ if (mult == x*y)
 score+=twenty
 else:
 score-=twenty
-lblScore= document.getelementbyid(lblScore)
+lbl score= document.getelementbyid(lblScore)
 lbl.score.innerhtml=score
 private j button next button=jbutton(next)
 nextbutton add.actionlistener
@@ -126,7 +126,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -135,5 +135,9 @@ check winner:
 if winner==true:
 log(the winner is)
 if winner==false:
-log(no winner yet)   
+log(no winner yet)  
+if users team wins covid strings2
+console log users team wins covid strings2 
+else
+return game over  
 return filename 
