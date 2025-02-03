@@ -5,6 +5,13 @@ head
 utf8
 viewport content=width=device-width, initial-scale=one
 title covidstrings 2 second round  bracket
+div id bracket class bracket div
+script src bracket .js
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covidstrings2 second round .js
 highest remaining seed (highest remaining num value)
 lowest remaining seed (lowest remaining num value )
