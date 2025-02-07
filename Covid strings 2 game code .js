@@ -1,22 +1,22 @@
-doc type.html
+doc.type.html
 script
 imagesrc =www.google.com/intl/en_com/images/logo_plain.png;
 src = document.getelementbyid(covid virus)
-filename=covid strings2 game code.js 
-getelementbyid
+filename=covidstrings 2.js 
+get element by id
 appendchild
 java.awt graphics
 audio=audio(audio_file mp3)
 audio.play 
 button random button
 button (set random color)
-private final j button option button=
+option button
 button (change color)
 public fun graphics(){
 color panel=j panel();
 add (panel,center)
 button panel
-j panel (flowlayout(flowlayout.center)
+j panel (flowlayout)
 buttonpanel.add(randombutton);
 random.button add actionlistener(actionlistener)
 override 
