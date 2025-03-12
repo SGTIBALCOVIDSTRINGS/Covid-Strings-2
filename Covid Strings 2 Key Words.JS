@@ -5,8 +5,8 @@ let original string=”
 let word to add-
 let updated string {original string} {word to add}
 console log updated string
-covid strings2 key word list=[shorter than soda can on venus,rihana,super spreader supra,sun cubed,beer,pill,dexie,fifth harmonies,aaron rodgers coverup worse than crime,saturn astra 
-vitamin d,mdx,”one”+”and”+”four”+”twenty”+”firsts,46 to 43 percent,bubble round robin format,vitamin d exposure natural]
+covid strings2 key word list=[shorter than soda can on venus,rihana,super spreader,sun cubed,beer,pill,dexie,fifth harmonies,aaron rodgers worse than crime, astrazencia saturn,
+vitamin d,medical doctors perscription,”one”+”and”+”four”+”twenty”+”firsts,46 to 43 percent,bubble round robin format,vitamin d exposure natural]
 string=””
 for string in covid strings search word list
 select characters
