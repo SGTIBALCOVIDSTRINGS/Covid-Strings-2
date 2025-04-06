@@ -1,30 +1,33 @@
 doc.type.html
 script
-Header=Document Create.Element(Header)
-Header.Style.BackgroundColor=#4CAF50
-Header.Style.Color=’White’
-Header.Style.Padding=’10Px’
-Header.Style.TextAlign=’Center’
-Header.Style.Text.FontSize=’24Px’
-Header.TextContent=’Covid Strings 2’ 
-Document AppendChild(Header)
-Heading1=#Background Overview
-Heading2=#Functions
-Heading3=Background Code
-<Header.Html>
-Background Overview
-Background For Covid Strings 2
-This. Img=Document.CreateElement(Covid)
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10Px’
+header.style.textalign=’center’
+header.style.text.font size=’24Px’
+header.text content=’covid strings 2’ 
+document AppendChild(Header)
+heading1=#background overview
+heading2=#functions
+heading3=background code
+<header.html>
+background overview
+background for covid strings 2
+This. Img=document.createElement(Covid)
 Img.Src=Http://Www.Google.Com/Intl/En_com/Images/Logo_plain.Png
 Src=Document GetElementByID(Header)
 Src.AppendChild(Img)
 <div id=header></div>
 audio=newaudio(audio_file mp3)
 audio.play 
-jbutton random button
-jbutton (set random color)
-poption button=
-jbutton (change color)
+random button
+button (set random color)
+option button=
+button (change color)
+<header.html>
+functions
+functions used in covid strings2
 public fun graphics(){
 jpanel color panel=j panel();
 color(panel,center)
@@ -39,7 +42,10 @@ colorpanel.setbackground((rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thi
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(actionlistener)
 override 
-public actionperformed(actionevent e){
+public actionperformed(actionevent e)
+<Header.Html>
+Background Code 
+Code To Program Game Background
 color multi=jcolorchooser.showdialog(funwithgraphics.this,))
 if(multi!=null)
 color panel background(m)
@@ -47,7 +53,7 @@ add(buttonpanel,borderlayout.south)
 public static main(string [] args){
 jframe f = covidstrings2()
 f.set title(covid strings2)
-f.setcloseoperation(jframe.exit_on_close);
+f.setcloseoperation(exit_on_close);
 f.setsize
 f.setvisible(true);
 labelid=lblscore>zero</label
