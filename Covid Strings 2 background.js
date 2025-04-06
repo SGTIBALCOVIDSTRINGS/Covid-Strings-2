@@ -1,17 +1,29 @@
 doc.type.html
 script
-file name= covid strings version2 background .js 
-java.awt graphics
-img=document.createelement(covid)
-img.src=http://www.google.com/intl/en_com/images/logo_plain.png
-src=document getelementbyid(header)
-src.appendchild(img)
+Header=Document Create.Element(Header)
+Header.Style.BackgroundColor=#4CAF50
+Header.Style.Color=’White’
+Header.Style.Padding=’10Px’
+Header.Style.TextAlign=’Center’
+Header.Style.Text.FontSize=’24Px’
+Header.TextContent=’Covid Strings 2’ 
+Document AppendChild(Header)
+Heading1=#Background Overview
+Heading2=#Functions
+Heading3=Background Code
+<Header.Html>
+Background Overview
+Background For Covid Strings 2
+This. Img=Document.CreateElement(Covid)
+Img.Src=Http://Www.Google.Com/Intl/En_com/Images/Logo_plain.Png
+Src=Document GetElementByID(Header)
+Src.AppendChild(Img)
 <div id=header></div>
 audio=newaudio(audio_file mp3)
 audio.play 
 jbutton random button
 jbutton (set random color)
-private final j button option button=
+poption button=
 jbutton (change color)
 public fun graphics(){
 jpanel color panel=j panel();
