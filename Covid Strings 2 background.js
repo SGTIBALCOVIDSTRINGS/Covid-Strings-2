@@ -1,4 +1,5 @@
 doc.type.html
+<html.lang.en>
 script
 <header.html>
 heading variables 
@@ -16,7 +17,7 @@ header.style.padding=’10Px’
 header.style.textalign=’center’
 header.style.text.font size=’24Px’
 header.text content=’covid strings 2’ 
-document appendChild(header)
+document append child(header)
 heading1=#background overview
 heading2=#functions
 heading3=background code
