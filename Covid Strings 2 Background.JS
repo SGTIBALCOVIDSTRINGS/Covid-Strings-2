@@ -36,8 +36,8 @@ button (set random color)
 option button
 button (change color)
 <header.html>
-functions
-functions used in covid strings2
+ background functions
+functions used in covid strings2 background 
 public fun graphics(){
 color panel=j panel();
 color(panel,center)
@@ -55,7 +55,7 @@ override
 public actionperformed(actionevent e)
 <header.html>
 background code 
-code to program covid strings 2 background 
+code to program game background
 color multi=jcolorchooser.showdialog(funwithgraphics.this,))
 if(multi!=null)
 color panel background(m)
