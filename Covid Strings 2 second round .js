@@ -49,12 +49,16 @@ matchup2=(lowest remaining seed versus highest remaining seed )
 matchup=document.createelement(div);
 matchup.classlist.add(matchup);
 matchup.innerhtml = <div>${team1}/${team2}
+if (event target (covid strings seed list contains matchup))
+return matchup
+else create matchup
 <header.html>
 second round questions
 the questions asked in the second round of the covid strings contest
 java util.scanner
 java.util
 second round questions= questions[18-25]
+collections.shuffle(arrays.aslist(questions)
 question18
 question19
 question20
@@ -63,12 +67,54 @@ question22
 question23 
 question24
 question25
-collections.shuffle(arrays.aslist(questions)
 private string getblanks(int numberofblanks)
 char[] chars = char[numberofblanks]
 arrays.fill chars 
 return string chars 
 addeventlistener
+myclass=(non-concatenated)
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if category ==multiplechoice:
+select answer
+else:
+prompt
+log
+myclass=new myclass(concatenated) 
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+if category == multiple choice:
+select answer
+else:
+prompt
+log
+import syntax 
+team1=lower ranked seed
+team2=the higher seeded opponent
+points: 10 points or 20 points
+<subheading.html>
+team stealing
+steal points(stealingteam,victimteam,pointstosteal)
+if(victimteam.points>=pointtosteal)
+victimteam.points-=pointtosteal;
+stealingteampoints+=pointstosteal
+console.log([StealingTeam.Name} Stole Points From {Victim Team Name}!)
+Else:
+Console.Log({VictimTeam.Name} Doesnt Have Enough Points To Steal)
+If Teams Final  Answer==Incorrect:
+Opposing Team Steals
+Else:
+Change Covid Strings Matchup  Score
+<Header.Html>
+Advancing Rounds 
+Contains The Criteria For Teams In The Second Round To Advance To The championship 
 advancingteams=slice(currentteams)
 result=declarewinner(matchup1)
 if intermediate seed1 score>=forty:
