@@ -27,6 +27,9 @@ viewport content=width=device-width, initial-scale=one
 title covidstrings 2 second round  bracket
 div id bracket class bracket div
 script src bracket .js
+link rel=stylesheet href=css
+head
+body
 bracket-container{}
 matchup
 solid zero;
