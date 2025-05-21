@@ -109,7 +109,9 @@ char[] chars = char[numberofblanks]
 arrays.fill chars 
 string chars 
 bracket.appendchild(rounddiv)
-declare winner
+<header.html>
+advancing rounds
+contains criteria required for a team to advance to the second round 
 result =declareWinner(matchup1);
 advancingteams=slice(current teams);
 if red score >=fourty:
