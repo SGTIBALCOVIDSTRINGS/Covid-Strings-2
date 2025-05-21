@@ -105,16 +105,16 @@ steal points(stealingteam,victimteam,pointstosteal)
 if(victimteam.points>=pointtosteal)
 victimteam.points-=pointtosteal;
 stealingteampoints+=pointstosteal
-console.log([StealingTeam.Name} Stole Points From {Victim Team Name}!)
-Else:
-Console.Log({VictimTeam.Name} Doesnt Have Enough Points To Steal)
-If Teams Final  Answer==Incorrect:
-Opposing Team Steals
-Else:
-Change Covid Strings Matchup  Score
-<Header.Html>
-Advancing Rounds 
-Contains The Criteria For Teams In The Second Round To Advance To The championship 
+console.log([stealingteam.name} stole points from {victim team name}!)
+else:
+console.log({victimteam.name} doesnt have enough points to steal)
+if teams final  answer==incorrect:
+opposing team steals
+else:
+change covid strings matchup  score
+<header.html>
+advancing rounds 
+contains the criteria for teams in the second round to advance to the championship 
 advancingteams=slice(currentteams)
 result=declarewinner(matchup1)
 if intermediate seed1 score>=forty:
