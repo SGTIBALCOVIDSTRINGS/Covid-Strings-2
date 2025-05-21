@@ -1,5 +1,25 @@
 doc.type html
+html.lang.en
 script
+header=document create.element (header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings2 second round’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=second round overview
+heading2=matchups
+heading3=second round questions
+heading4=advancing rounds
+subheading1=team stealing
+<header.html>
+second round overview
+is an overview of the second round of the covid strings contest
 html
 head
 utf8
@@ -17,6 +37,9 @@ highest remaining seed (highest remaining num value)
 lowest remaining seed (lowest remaining num value )
 intermediateseed1=(first middle remaining value in covid strings list)
 intermediateseed2=(second middle remaining value in covid strings list)
+<header.html>
+matchups
+contains 4 teams which equals 2 matchups 
 matchup1=(intermediate seed2 versus intermediate seed1)
 matchup=document.createelement(div);
 matchup.classlist.add(matchup);
@@ -26,9 +49,12 @@ matchup2=(lowest remaining seed versus highest remaining seed )
 matchup=document.createelement(div);
 matchup.classlist.add(matchup);
 matchup.innerhtml = <div>${team1}/${team2}
+<header.html>
+second round questions
+the questions asked in the second round of the covid strings contest
 java util.scanner
 java.util
-questions[]questions={
+second round questions= questions[18-25]
 question18
 question19
 question20
