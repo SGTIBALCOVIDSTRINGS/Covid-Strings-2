@@ -120,7 +120,7 @@ result =declareWinner(matchup2);
 if white score >=fourty:
 console.log(white transit angels win )
 else:
-console.log(blue curve crushers Win)
+console.log(blue curve crushers win)
 result =declareWinner(matchup3);
 if orange score >=fourty:
 console.log(orange rna messengers win )
