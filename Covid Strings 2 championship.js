@@ -17,6 +17,7 @@ heading2=championship code
 heading3=championship round questions
 heading4=victory
 subheading1=team stealing
+subheading2=result for championship  matchup
 <header.html>
 championship overview
 contains an overview of the championship
@@ -115,9 +116,16 @@ if selectedanswer==correct answer:
 return true
 else:
 return false
+<subheading.html>
+result for championship matchup  
+the code for how to determine the end result of covid strings2 championship
 result =declarewinner(team1score,team2score);
 if team high seed championship game score >=sixty:
 console.log (high seed wins covid strings2) 
 else:
+remain
+if team low seed championship game score>=sixty:
 console.log(low seed wins covid strings2)
+else:
+remain
 return filename
