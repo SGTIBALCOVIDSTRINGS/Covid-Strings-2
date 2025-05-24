@@ -17,6 +17,8 @@ heading2=matchups
 heading3=second round questions
 heading4=advancing rounds
 subheading1=team stealing
+subheading2=result for matchup1
+subheading3=result for matchup2
 <header.html>
 second round overview
 is an overview of the second round of the covid strings contest
@@ -119,14 +121,28 @@ change covid strings matchup  score
 advancing rounds 
 contains the criteria for teams in the second round to advance to the championship 
 advancingteams=slice(currentteams)
+<subheading.html>
+result for matchup1
+the code for how to determine the end result of matchup1 of covid strings 
 result=declarewinner(matchup1)
 if intermediate seed1 score>=forty:
 console.log(intermediate seed1 wins)
 else:
+remain
+if intermediateseed2score>=forty:
 console.log(intermediate seed2 wins)
+else:
+remain
+<subheading.html>
+result for matchup2
+the code for how to determine the end result of matchup2 of covid strings 
 result =declarewinner(matchup2)
 if highest remaining seed score>=forty:
 console.log (highest remaining seed wins)
 else:
+remain
+if lowest remaining seed score>=forty:
 console.log(lowest remaining seed wins)
+else:
+remain
 return filename
