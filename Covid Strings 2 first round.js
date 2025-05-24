@@ -17,6 +17,10 @@ heading2=matchups
 heading3=first round questions
 heading4=advancing rounds
 subheading1=team stealing
+subheading2=result for matchup1
+subheading3=result for matchup2
+subheading4=result for matchup3
+subheading5=result for matchup4
 <header.html>
 first round overview
 an overview of the first round of covid strings2 includes seeding 
@@ -112,25 +116,53 @@ bracket.appendchild(rounddiv)
 <header.html>
 advancing rounds
 contains criteria required for a team to advance to the second round 
-result =declareWinner(matchup1);
 advancingteams=slice(current teams);
-if red score >=fourty:
+<subheading.html>
+result for matchup1 
+the code for how to determine the end result of matchup1 of covid strings 
+result =declarewinner(matchup1);
+if red score >=forty:
 console.log(red protein spikers win )
 else:
+remain
+if magenta score>=forty:
 console.log(magenta magnetizers win)
-result =declareWinner(matchup2);
-if white score >=fourty:
+else:
+remain
+<subheading.html>
+result for matchup2 
+the code for how to determine the end result of matchup2 of covid strings 
+result =declarewinner(matchup2);
+if white score >=forty:
 console.log(white transit angels win )
 else:
+remain
+if blue score>=forty:
 console.log(blue curve crushers win)
-result =declareWinner(matchup3);
-if orange score >=fourty:
+else:
+remain
+<subheading.html>
+result for matchup3 
+the code for how to determine the end result of matchup3 of covid strings 
+result =declarewinner(matchup3);
+if orange score >=forty:
 console.log(orange rna messengers win )
 else:
+remain
+if purple score>=forty:
 console.log(purple brave hearts win)
-result =declareWinner(matchup4);
-if pink score >=fourty:
+else:
+remain
+<subheading.html>
+result for matchup4 
+the code for how to determine the end result of matchup4 of covid strings 
+result =declarewinner(matchup4);
+if pink score >=forty:
 console.log(pink covid disease fighters win )
 else:
+remain
+if black score=>forty:
 console.log(black night riders win)
+else:
+remain
 return filename
