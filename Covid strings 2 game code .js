@@ -217,6 +217,7 @@ substring(start,end)
 <header.html>
 answer checker
 the feature within covid strings that allows the software to check whether a users answer is correct
+for multiple choice questions in covid strings 
 if selectedanswer==correct answer:
 log true
 else:
