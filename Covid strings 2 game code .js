@@ -24,8 +24,9 @@ heading9=answer checker
 heading10=winner checker
 subheading1=polling problems
 subheading2= answer scanner
+this.img=document.createelement(covid)
 imagesrc =www.google.com/intl/en_com/images/logo_plain.png;
-src = document.getelementbyid(covid virus)
+src = document.getelementbyid(header)
 filename=covidstrings 2.js 
 <header.html>
 game code overview
@@ -63,6 +64,9 @@ teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(action listener)
 override 
+<header.html>
+game code part1
+part1 of game code for covid strings2(value object[team-color]-desired color green)
 publicactionperformed(actionevente)
 color multi=jcolorchooser.showdialog(funwithgraphics.this,)
 if(multi!=null)
@@ -98,11 +102,28 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [teamcolor]
-<header.html>
-game code part1
-part1 of game code for covid strings2(value object[team-color]-desired color green)
 covid strings2 team list=[orange rna messengers,pink covid disease fighters,red protein spikers ,white transit angels,blue curve crushers ,magenta magnetizers ,black night riders,purple brave hearts]
 covid strings2 debugging question=(whats wrong with this code "the"+"covid"+"death"+"toll"+"in"+"terms"+"of"+"pi"+"is"+"one"+"thousand") 
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings2 debugging question
+select characters
+edit diffuse property
+desired color=green
+<header.html>
+phrases
+phrases that involve both non-concatenated and concatenated strings 
+covid strings2 phrase list=[non-concatenated strings
+"no sun cubed does not kill viruses", "elon musk is wrong take the purple pill", "nothing labeled dexie turns you into benjamin button," "i am not a superspreader i am a supraspreader" "mdx does not mean medical doctors prescription","astrazeneca is only slightly better than the saturn astra", "talk about staying at home lasts shorter than a soda can on venus" "aaron rodgers proves the coverup is truly worse than the crime"
+concatenated strings 
+"no"+"corona"+"beer"+"has"+"nothing"+"to"+"do"+"with"+"corona"+"virus","work"+"from"+"home"+"is"+"not"+"just"+"for"+"rihanna","it"+"is"+"also"+"not"+"just"+"fifth"+"harmonys"+"right"+"either","vitamin"+"d"+"however"+"is"+"a"+"compliment"+"to+"getting"+"vaccinated","at"+"least"+"sixty"+"minutes"+"of"+"exercise"+"also"+"helps","no"+"covid"+"was"+"not"+"cheated"+"out"+"of"+"the"+"twenty-twenty"+"election","one"+"comedian"+"believed"+"the"+"last"+"year"+"was"+"one"+"and"+"four"+"twentyfirsts"+"of"+"a"+"uranian"+"year","it"+"figures"+"a"+"bubble"+"would"+"employ"+"a"+"round"+"robin"+"format"]
 string manager{non-concatenated}
 insert string (entity,string)
 entity.element.text=string
@@ -116,20 +137,6 @@ for string in covid strings2 phrase list
 select characters
 edit diffuse property
 desired color=green
-for string in covid strings2 math problems list
-select characters
-edit diffuse property
-desired color=green
-for string in covid strings2 sentence list 
-select characters
-edit diffuse property
-desired color=green
-<header.html>
-phrases
-phrases that involve both non-concatenated and concatenated strings 
-covid strings2 phrase list=[non-concatenated,"no sun cubed does not kill viruses", "elon musk is wrong take the purple pill", "nothing labeled dexie turns you into benjamin button," "i am not a superspreader i am a supraspreader" "mdx does not mean medical doctors prescription","astrazeneca is only slightly better than the saturn astra", "talk about staying at home lasts shorter than a soda can on venus" "aaron rodgers proves the coverup is truly worse than the crime"
-concatenated,"no"+"corona"+"beer"+"has"+"nothing"+"to"+"do"+"with"+"corona"+"virus","work"+"from"+"home"+"is"+"not"+"just"+"for"+"rihanna","it"+"is"+"also"+"not"+"just"+"fifth"+"harmonys"+"right"+"either","vitamin"+"d"+"however"+"is"+"a"+"compliment"+"to+"getting"+"vaccinated","at"+"least"+"sixty"+"minutes"+"of"+"exercise"+"also"+"helps","no"+"covid"+"was"+"not"+"cheated"+"out"+"of"+"the"+"twenty-twenty"+"election","one"+"comedian"+"believed"+"the"+"last"+"year"+"was"+"one"+"and"+"four"+"twentyfirsts"+"of"+"a"+"uranian"+"year"
-"it"+"figures"+"a"+"bubble"+"would"+"employ"+"a"+"round"+"robin"+"format"]
 <header.html>
 multiple choice questions
 multiple choice questions and answers that will appear in covid strings2
@@ -143,7 +150,20 @@ covidstringsmultiplechoicelist2=[1: a shorter b longer c a reflection of d the s
 math problems
 covid related math problems that will appear in covid strings2
 covidstrings2mathproblemlist=[ non-concatenated "if aaron rodgers decided 2 weeks later that he would get a johnson and johnson vaccine how soon after getting vaccinated can he play"?,"the local flag day in town has been postponed due to an outbreak of the variant omicron if the guidelines say that the positivity rate can be not greater than six and a quarter percent and the rate is six and four ninths percent can the event happen on the new date of june seventeenth"?, "if former president trump shared fourteen covid misinformation posts over a period of two days assuming they are divided equally, how many posts per day did trump share"?, "if the same town decided to have a juneteenth celebration and the same guidelines regarding positivity were used could juneteenth be held if the rate was five and one fiftieth percent"?, "if a study found that immunization increases the likelihood that one would decline vaccination by sixty-five percent what could get done to convince skeptical people"? ,"this same study found that when asked about what party they would vote for in the midterms seventy one percent of people who were immunized would vote republican whereas eighty percent of people who say they were vaccinated vote democrat if the margin of error is two and nine tenths percent what is the range"?, 
-concatenated"if"+"it"+"becomes"+"public"+"that"+"vitamin"+"d"+"actually"+"only"+"has"+"a"+"third"+"of"+"the"+"efficacy"+"of"+"vaccines"+"should"+"the"+"store"+"offer"+"vitamin"+"d"?,"if"+"the"+"same"+"poll"+"showed"+"that"+"if"+"a"+"new"+"variant"+"came"+"support"+"would"+"increase"+"by"+"three"+"percent"+"what"+"is"+"the"+"new"+"range"?,"if"+"the"+"same"+"poll"+"showed"+"that"+"once"+"the"+"variant"+"leaves"+"support"+"recedes"+"by"+"five"+"percent"+"what"+"is"+"the"+"new"+"range"?]
+[concatenated strings"if"+"it"+"becomes"+"public"+"that"+"vitamin"+"d"+"actually"+"only"+"has"+"a"+"third"+"of"+"the"+"efficacy"+"of"+"vaccines"+"should"+"the"+"store"+"offer"+"vitamin"+"d"?,"if"+"the"+"same"+"poll"+"showed"+"that"+"if"+"a"+"new"+"variant"+"came"+"support"+"would"+"increase"+"by"+"three"+"percent"+"what"+"is"+"the"+"new"+"range"?,"if"+"the"+"same"+"poll"+"showed"+"that"+"once"+"the"+"variant"+"leaves"+"support"+"recedes"+"by"+"five"+"percent"+"what"+"is"+"the"+"new"+"range"?]
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings2 math problems list
+select characters
+edit diffuse property
+desired color=green
 public static main(string []args)
 int number
 number=number*2
@@ -174,29 +194,36 @@ remain
 sentences
 covid related sentences that will appear in covid strings2
 covidstrings2sentencelist=["trump"+"said"+"covid"+"made"+"him"+"twenty"+"years"+"younger","vitamin d exposure is one way to boost immunity","work from home is not just for famous people","covid"+"misninformation"+"spreads"+"just"+"as"+"fast"+"as"+"covid"+"itself"
-<header.html>
-game code part2
-the rest of the game code excluding answer and winner checker
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings2 sentence list 
+select characters
+edit diffuse property
+desired color=green
 string.split   
 arrays.aslist(list<string>)
 for(string ss:arr)
 system.outprintin(ss)
+<header.html>
+game code part2
+the rest of the game code excluding answer and winner checker
 java util.scanner
 java.util
-questions[]questions={
+questions=total# of questions from covid strings 2 [first-championship round] 
 collections.shuffle(arrays.aslist(questions)
 private string getblanks(int numberofblanks)
 char[] chars =char[numberofblanks]
 arrays.fill chars 
 return string chars 
-if math problem== x percent:
-subtract exact from one hundred
-if math problem== margin of error:
-add and subtract exact 
-else:
-remain constant
 user input.select team
-importmeta
+import meta
 myclass=class
 (non-concatenated)
 return category
@@ -219,9 +246,9 @@ answer checker
 the feature within covid strings that allows the software to check whether a users answer is correct
 for multiple choice questions in covid strings 
 if selectedanswer==correct answer:
-log true
+return true
 else:
-log false
+return false
 if selectedanswer==incorrect answer:
 return false
 else:
@@ -257,8 +284,12 @@ the feature within covid strings that allows for the player to know if their tea
 check winner:
 if winner==true:
 log(the winner is)
+else:
+remain
 if winner==false:
-log(no winner yet)  
+log(no winner yet) 
+else:
+log winner
 if users team wins covid strings2
 console log users team wins covid strings2 
 else
