@@ -35,7 +35,7 @@ insert string(entity,string)
 entity.element.text=string
 string manager insert string
 string=””
-for string in covid strings search word list
+for string in covid strings key word list
 select characters
 edit diffuse property
 desired color=green
