@@ -25,6 +25,15 @@ keywords
 key search words for covid strings2
 covid strings2 key word list=[shorter than soda can on venus,rihana,super spreader,sun cubed,beer,pill,dexie,fifth harmonies,aaron rodgers worse than crime, astrazencia saturn,
 vitamin d,medical doctors perscription,”one”+”and”+”four”+”twenty”+”firsts,46 to 43 percent,bubble round robin format,vitamin d exposure natural]
+string manger non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+string manger concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
 for string in covid strings search word list
 select characters
